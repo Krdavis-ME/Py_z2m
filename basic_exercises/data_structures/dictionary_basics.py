@@ -26,3 +26,9 @@ print(dict_example1.get('age',55))
 # dict(key=value)
 dict_example2 = dict(name='MysticNomad')
 print(dict_example2)
+
+# Locating Keys and values
+# print('hello' in dict_example.keys())
+# print('hello' in dict_example.values())
+# print(dict_example.items())
+# dict_example.clear()
